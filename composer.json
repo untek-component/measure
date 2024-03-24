@@ -1,5 +1,5 @@
 {
-  "name": "untek-model/measure",
+  "name": "untek-component/measure",
   "type": "extension",
   "license": "MIT",
   "homepage": "https://untek-lab.github.io",
@@ -15,8 +15,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Untek\\Model\\Measure\\": "src",
-      "Untek\\Model\\Measure\\Tests\\": "tests"
+      "Untek\\Component\\Measure\\": "src",
+      "Untek\\Component\\Measure\\Tests\\": "tests"
     }
   }
 }
